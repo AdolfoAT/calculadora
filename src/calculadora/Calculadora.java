@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Marcos Haziel Murillo Gonzalez Aragon 4H
+ * @author 
  */
 public class Calculadora extends javax.swing.JFrame {
     
